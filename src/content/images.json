@@ -1,0 +1,51 @@
+{
+  "retrato": {
+    "file": "images/sobre/henrique.jpg",
+    "alt": "Henrique Paiva, advogado",
+    "ratio": "4:5 (vertical)",
+    "unsplash": ["_cpHtWae2ac", "x0A7wgQmmdk", "LhPpi2Yk80g"],
+    "prompt": "Professional portrait of a Brazilian male lawyer in his early 40s, short dark hair, navy suit without tie, white shirt, calm approachable expression, standing in a modern office with bookshelves softly blurred, deep green and warm brass tones, natural window light, editorial corporate portrait, no text"
+  },
+  "escritorio": {
+    "file": "images/sobre/escritorio.jpg",
+    "alt": "Estante com livros de direito no escritório",
+    "ratio": "3:2 (horizontal)",
+    "unsplash": ["zeH-ljawHtg", "ozS0tPf8QT0"],
+    "prompt": "Small modern law office interior, dark green wall, wooden bookshelf with law books, desk with brass lamp, two leather chairs for clients, warm afternoon light, interior photography, no people, no text"
+  },
+  "reuniao": {
+    "file": "images/atendimento/reuniao.jpg",
+    "alt": "Advogado analisando documentos com um cliente",
+    "ratio": "3:2 (horizontal)",
+    "unsplash": ["XjJmfN7QJj4", "8k5j5z6ZYT4", "tOUH9V8V6IE"],
+    "prompt": "Lawyer and client reviewing documents together at a wooden desk, lawyer pointing at a contract clause, laptop open, relaxed and attentive atmosphere, natural light, documentary style corporate photo, faces partially visible, no text"
+  },
+  "trabalhista": {
+    "file": "images/areas/trabalhista.jpg",
+    "alt": "Pessoa escrevendo em um documento",
+    "ratio": "4:3 (horizontal)",
+    "unsplash": ["OQMZwNd3ThU", "jnBTA_oYO74"],
+    "prompt": "Brazilian worker in a work uniform sitting across from a lawyer, showing pay slips and a work card (carteira de trabalho), office desk, natural light, respectful documentary photo, no text, no logos"
+  },
+  "previdenciario": {
+    "file": "images/areas/previdenciario.jpg",
+    "alt": "Assinatura de documentos com orientação",
+    "ratio": "4:3 (horizontal)",
+    "unsplash": ["HJckKnwCXxQ", "FKnEYIEVOyI"],
+    "prompt": "Retired Brazilian couple in their 60s reviewing pension documents with a lawyer at a desk, reading glasses, folders, warm natural light, hopeful and calm mood, documentary photo, no text"
+  },
+  "consumidor": {
+    "file": "images/areas/consumidor.jpg",
+    "alt": "Pessoa anotando informações em um papel",
+    "ratio": "4:3 (horizontal)",
+    "unsplash": ["doplSDELX7E", "OQMZwNd3ThU"],
+    "prompt": "Person at a kitchen table organizing receipts, a bank statement and a phone showing a customer service chat, frustrated but determined, natural light, realistic lifestyle photo, no readable text, no logos"
+  },
+  "forum": {
+    "file": "images/inicio/forum.jpg",
+    "alt": "Fachada de prédio público",
+    "ratio": "16:9 (horizontal)",
+    "unsplash": ["bAQH53VquTc", "MYbhN8KaaEc"],
+    "prompt": "Low angle architectural photo of a modernist Brazilian courthouse facade with columns, clear blue sky, strong shadows, monochrome green tint, minimalist, no people, no text"
+  }
+}
